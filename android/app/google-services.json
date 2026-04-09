@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907106225266",
+    "project_id": "surat-pelayanan-d6003",
+    "storage_bucket": "surat-pelayanan-d6003.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907106225266:android:c063069d0b770355d286eb",
+        "android_client_info": {
+          "package_name": "com.example.surat_pelayanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FNln18uoteav7znLA4sdwc3tQY3v-nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
